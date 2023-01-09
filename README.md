@@ -19,3 +19,4 @@
 # Tech Stack used 
 - This project mainly uses javascript based framework called NextJs. Its very trending as it used to develop `Web3 Applications`.
 - If you know Basics of `HTML` and `CSS` its easy to understand the code as well. Little knowledge of `React` and `JavaScript` Recommended.
+- My website URL : https://portfolio-akhil-pathak.web.app/
